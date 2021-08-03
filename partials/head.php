@@ -7,6 +7,8 @@
   <meta name="description" content="">
   <meta name="keyword" content="">
   <link rel="stylesheet" href="../styles/reset.css">
-  <link rel="stylesheet" href="../styles/main.scss">
+  <link rel="stylesheet" href="../styles/main.css">
+  <link rel="stylesheet" href="../styles/header.css">
+  <link rel="stylesheet" href="../styles/banner.css">
 </head>
 <body>
