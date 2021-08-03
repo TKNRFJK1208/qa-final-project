@@ -2,8 +2,8 @@
 <header id="header">
   <div class="header container">
     <div class="nav-bar">
-      <div>
-        <a href="index.php"><img class="logo" src="" alt="LOGO"></a>
+      <div class="brand">
+        <a href="index.php"><img class="logo" src="images/logo.png" alt="LOGO"></a>
       </div>
       <div class="nav-list">
         <div class="hamburger"><div class="bar"></div></div>
@@ -22,7 +22,8 @@
 </header>
 <section id="bnr">
   <div class="bnr container">
-    <div class="hero-content">
+    <!-- <img src="images/hbg.png"> -->
+    <div class="bnr-content">
       <h1>The readable content of a page when looking at its layout.</h1>
     </div>
   </div>
