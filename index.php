@@ -123,15 +123,18 @@
     <h2 class="section-title">Client</h2>
     <div class="all-client-box">
       <div class="client-box">
-        <img src="" alt="">
+        <img src="images/c1.jpeg" alt="">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto tempore sint aliquid modi nam mollitia voluptatibus ipsa in rem quod incidunt et ducimus deleniti quia, quae enim, accusamus explicabo quasi?</p>
         <div class="client-message"></div>
       </div>
       <div class="client-box">
-        <img src="" alt="">
+        <img src="images/c2.jpeg" alt="">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto tempore sint aliquid modi nam mollitia voluptatibus ipsa in rem quod incidunt et ducimus deleniti quia, quae enim, accusamus explicabo quasi?</p>
         <div class="client-message"></div>
       </div>
       <div class="client-box">
-        <img src="" alt="">
+        <img src="images/c3.jpeg" alt="">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto tempore sint aliquid modi nam mollitia voluptatibus ipsa in rem quod incidunt et ducimus deleniti quia, quae enim, accusamus explicabo quasi?</p>
         <div class="client-message"></div>
       </div>
     </div>

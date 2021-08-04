@@ -11,7 +11,7 @@ hamburger.addEventListener('click', () => {
 document.addEventListener('scroll', () => {
 	var scroll_position = window.scrollY;
 	if (scroll_position > 250) {
-		header.style.backgroundColor = '#1A1D23';
+		header.style.backgroundColor = 'transparent';
 	} else {
 		header.style.backgroundColor = '#1A1D23';
 	}
