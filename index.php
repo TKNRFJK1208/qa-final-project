@@ -47,7 +47,7 @@
     <div class="project-box">
       <div class="project-item">
         <a href="" title="project image">
-          <img src="" alt="">
+          <img src="images/g1.jpg" alt="">
         </a>
         <div class="project-info">
           <h4>Projet Title</h4>
@@ -56,7 +56,7 @@
       </div>
       <div class="project-item">
         <a href="" title="project image">
-          <img src="" alt="">
+          <img src="images/g1.jpg" alt="">
         </a>
         <div class="project-info">
           <h4>Projet Title</h4>
@@ -65,7 +65,7 @@
       </div>
       <div class="project-item">
         <a href="" title="project image">
-          <img src="" alt="">
+          <img src="images/g1.jpg" alt="">
         </a>
         <div class="project-info">
           <h4>Projet Title</h4>
@@ -74,7 +74,7 @@
       </div>
       <div class="project-item">
         <a href="" title="project image">
-          <img src="" alt="">
+          <img src="images/g1.jpg" alt="">
         </a>
         <div class="project-info">
           <h4>Projet Title</h4>
@@ -83,7 +83,7 @@
       </div>
       <div class="project-item">
         <a href="" title="project image">
-          <img src="" alt="">
+          <img src="images/g1.jpg" alt="">
         </a>
         <div class="project-info">
           <h4>Projet Title</h4>
@@ -92,7 +92,7 @@
       </div>
       <div class="project-item">
         <a href="" title="project image">
-          <img src="" alt="">
+          <img src="images/g1.jpg" alt="">
         </a>
         <div class="project-info">
           <h4>Projet Title</h4>

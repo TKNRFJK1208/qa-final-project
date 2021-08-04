@@ -11,5 +11,6 @@
   <link rel="stylesheet" href="../styles/header.css">
   <link rel="stylesheet" href="../styles/banner.css">
   <link rel="stylesheet" href="../styles/about.css">
+  <link rel="stylesheet" href="../styles/project.css">
 </head>
 <body>
