@@ -14,5 +14,6 @@
   <link rel="stylesheet" href="../styles/project.css">
   <link rel="stylesheet" href="../styles/expertise.css">
   <link rel="stylesheet" href="../styles/client.css">
+  <link rel="stylesheet" href="../styles/contact.css">
 </head>
 <body>

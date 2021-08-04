@@ -1,0 +1,49 @@
+/* Contact Section */
+#contact .contact-form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 0 auto;
+  padding: 80px 20px;
+  width: 80vw;
+  text-align: center;
+}
+
+.contact-form .error-message,
+.contact-form .error-message p {
+  color: red;
+  font-weight: 500;
+  font-size: 1.5rem;
+  margin-top: 20px;
+}
+
+.contact-form .contact-info p {
+  font-weight: 700;
+  font-size: 1.5rem;
+  padding: 50px 10px 5px;
+}
+
+.contact-form .contact-info input,
+.home {
+  font-weight: 500;
+  font-size: 2rem;
+  margin-top: 30px;
+  text-transform: uppercase;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 80vw;
+}
+
+.contact-form .buttons input {
+  margin: 15px 5px;
+  width: 80vw;
+  text-transform: uppercase;
+}
+
+.contact-form .buttons input .back .contact-footer {
+  position: fixed;
+  bottom: 0;
+}
