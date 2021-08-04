@@ -12,5 +12,6 @@
   <link rel="stylesheet" href="../styles/banner.css">
   <link rel="stylesheet" href="../styles/about.css">
   <link rel="stylesheet" href="../styles/project.css">
+  <link rel="stylesheet" href="../styles/expertise.css">
 </head>
 <body>
