@@ -32,7 +32,7 @@
   <div class="about container">
     <div class="col-left">
       <div class="about-img">
-        <img src="" class="pf-img" alt="profile image">
+        <img src="images/pf.jpg" class="pf-img" alt="profile image">
       </div>
     </div>
     <div class="col-right">
