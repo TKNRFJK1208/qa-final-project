@@ -33,7 +33,7 @@
   <div class="about container">
     <div class="col-left">
       <div class="about-img">
-        <img src="images/pf.jpg" class="pf-img" alt="profile image">
+        <img src="images/about.jpeg" class="pf-img" alt="profile image">
       </div>
     </div>
     <div class="col-right">
@@ -48,7 +48,7 @@
     <div class="project-box">
       <div class="project-item">
         <a href="" title="project image">
-          <img src="images/g1.jpg" alt="">
+          <img src="images/img1.jpg" alt="">
         </a>
         <div class="project-info">
           <h4>Projet Title</h4>
@@ -57,7 +57,7 @@
       </div>
       <div class="project-item">
         <a href="" title="project image">
-          <img src="images/g1.jpg" alt="">
+          <img src="images/img2.jpg" alt="">
         </a>
         <div class="project-info">
           <h4>Projet Title</h4>
@@ -66,7 +66,7 @@
       </div>
       <div class="project-item">
         <a href="" title="project image">
-          <img src="images/g1.jpg" alt="">
+          <img src="images/img3.jpg" alt="">
         </a>
         <div class="project-info">
           <h4>Projet Title</h4>
@@ -75,7 +75,7 @@
       </div>
       <div class="project-item">
         <a href="" title="project image">
-          <img src="images/g1.jpg" alt="">
+          <img src="images/img4.jpg" alt="">
         </a>
         <div class="project-info">
           <h4>Projet Title</h4>
@@ -84,7 +84,7 @@
       </div>
       <div class="project-item">
         <a href="" title="project image">
-          <img src="images/g1.jpg" alt="">
+          <img src="images/img5.jpg" alt="">
         </a>
         <div class="project-info">
           <h4>Projet Title</h4>
@@ -93,7 +93,7 @@
       </div>
       <div class="project-item">
         <a href="" title="project image">
-          <img src="images/g1.jpg" alt="">
+          <img src="images/img6.jpg" alt="">
         </a>
         <div class="project-info">
           <h4>Projet Title</h4>

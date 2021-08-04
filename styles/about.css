@@ -13,8 +13,8 @@
   padding-top: 80px;
 }
 #about .col-left .about-img {
-  height: 100%;
-  width: 100%;
+  width: fit-content;
+  height: 200px;
   position: relative;
   margin-bottom: 50px;
   box-shadow: 31px 18px 21px -19px rgb(0 0 0 / 75%);

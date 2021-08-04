@@ -1,0 +1,33 @@
+/* Footer Section */
+#footer {
+  background-color: #000000;
+}
+#footer .footer {
+  min-height: 200px;
+  flex-direction: column;
+  padding-top: 50px;
+  padding-bottom: 35px;
+  bottom: 0;
+}
+
+#footer .social-icon {
+  display: flex;
+  margin-bottom: 30px;
+}
+#footer .social-item {
+  height: 50px;
+  width: 50px;
+  margin: 0 5px;
+}
+
+#footer .copyright {
+  color: #fff;
+  font-size: 1.3rem;
+}
+
+@media (min-width: 768px) {
+}
+@media (min-width: 992px) {
+}
+@media (min-width: 1200px) {
+}
