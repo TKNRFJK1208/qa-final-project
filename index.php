@@ -109,12 +109,12 @@
     <p>Our core competencies and capabilities.</p>
     <div class="skill-list">
       <ul>
-        <li>HTML5 & CSS3</li>
-        <li>JavaScript</li>
-        <li>PHP</li>
-        <li>MySQL</li>
-        <li>WordPress</li>
-        <li>GitHub</li>
+        <li>Web Design</li>
+        <li>UX / UI</li>
+        <li>Modern App Framework</li>
+        <li>WordPress & SEO</li>
+        <li>Market Analyics</li>
+        <li>Graphic Design</li>
       </ul>
     </div>
   </div>
@@ -155,7 +155,7 @@
                 ?>
                 <div class="contact-info">
                     <p>NAME</p>
-                    <input type="text" cols="40" name="fullname" value="<?php echo $_SESSION['fullname'] ?>"><br>
+                    <input type="text" cols="20" name="fullname" value="<?php echo $_SESSION['fullname'] ?>"><br>
                 </div>
                 <div class="contact-info">
                     <p>EMAIL</p> 

@@ -43,8 +43,14 @@ p {
 }
 
 @media (min-width: 768px) {
+  .section-title {
+    font-size: 2.4rem;
+    font-weight: 500;
+  }
+  p {
+    font-size: 1.6rem;
+    letter-spacing: 0.1rem;
+  }
 }
 @media (min-width: 992px) {
-}
-@media (min-width: 1200px) {
 }

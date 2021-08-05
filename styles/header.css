@@ -193,6 +193,3 @@ header .hamburger.active .bar::after {
     display: none;
   }
 }
-
-@media (min-width: 1200px) {
-}
