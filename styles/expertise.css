@@ -24,4 +24,15 @@
   }
 }
 @media (min-width: 992px) {
+  #expertise p {
+    margin: 30px;
+  }
+  #expertise .skill-list ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  #expertise .skill-list li {
+    width: 25%;
+  }
 }

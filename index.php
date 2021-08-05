@@ -23,7 +23,6 @@
 </header>
 <section id="bnr">
   <div class="bnr container">
-    <!-- <img src="images/hbg.png"> -->
     <div class="bnr-content">
       <h1>The readable content of a page when looking at its layout.</h1>
     </div>
@@ -125,17 +124,17 @@
     <div class="all-client-box">
       <div class="client-box">
         <img src="images/c1.jpeg" alt="">
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto tempore sint aliquid modi nam mollitia voluptatibus ipsa in rem quod incidunt et ducimus deleniti quia, quae enim, accusamus explicabo quasi?</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
         <div class="client-message"></div>
       </div>
       <div class="client-box">
         <img src="images/c2.jpeg" alt="">
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto tempore sint aliquid modi nam mollitia voluptatibus ipsa in rem quod incidunt et ducimus deleniti quia, quae enim, accusamus explicabo quasi?</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
         <div class="client-message"></div>
       </div>
       <div class="client-box">
         <img src="images/c3.jpeg" alt="">
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto tempore sint aliquid modi nam mollitia voluptatibus ipsa in rem quod incidunt et ducimus deleniti quia, quae enim, accusamus explicabo quasi?</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
         <div class="client-message"></div>
       </div>
     </div>
