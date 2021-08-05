@@ -53,4 +53,11 @@ p {
   }
 }
 @media (min-width: 992px) {
+  .section-title {
+    font-size: 3rem;
+    font-weight: 700;
+  }
+  p {
+    letter-spacing: 0.2rem;
+  }
 }

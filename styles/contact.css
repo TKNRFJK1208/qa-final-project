@@ -26,6 +26,9 @@
 .home {
   font-weight: 500;
   font-size: 2rem;
+}
+
+.home {
   text-transform: uppercase;
 }
 
@@ -61,4 +64,8 @@
   }
 }
 @media (min-width: 992px) {
+  .contact-form input,
+  .contact-form textarea {
+    max-width: 40vw;
+  }
 }

@@ -15,6 +15,7 @@
 .project-item {
   position: relative;
   margin: 20px;
+  height: 180px;
 }
 
 .project-item a::after {
@@ -57,7 +58,12 @@
   .project-item {
     width: 43%;
     position: relative;
+    height: 200px;
   }
 }
 @media (min-width: 992px) {
+  .project-item .project-info h4,
+  .project-item .project-info p {
+    font-size: 1.8rem;
+  }
 }
