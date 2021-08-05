@@ -17,9 +17,15 @@
   margin: 20px;
 }
 
-.project-item img {
-  width: 100%;
+.project-item a::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
   height: 100%;
+  width: 100%;
+  background-color: black;
+  opacity: 0.4;
 }
 
 .project-item .project-info {
@@ -35,14 +41,23 @@
 
 .project-item .project-info h4,
 .project-item .project-info p {
-  color: #222;
+  color: #fff;
   font-weight: 700;
   font-size: 1.4rem;
+  z-index: 2;
 }
 
 @media (min-width: 768px) {
+  .project-box {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+  }
+  .project-item {
+    width: 43%;
+    position: relative;
+  }
 }
 @media (min-width: 992px) {
-}
-@media (min-width: 1200px) {
 }

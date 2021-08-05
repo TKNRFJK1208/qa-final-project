@@ -29,9 +29,10 @@
   line-height: 50px;
 }
 @media (min-width: 768px) {
+  #bnr h1 {
+    font-size: 2.4em;
+  }
 }
 
 @media (min-width: 992px) {
-}
-@media (min-width: 1200px) {
 }

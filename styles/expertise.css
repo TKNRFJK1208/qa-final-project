@@ -18,8 +18,10 @@
 }
 
 @media (min-width: 768px) {
+  #expertise .skill-list li {
+    margin: 30px;
+    font-size: 1.8rem;
+  }
 }
 @media (min-width: 992px) {
-}
-@media (min-width: 1200px) {
 }
