@@ -22,10 +22,13 @@ header .nav-bar {
   max-width: 1300px;
   padding: 0 10px;
 }
+.brand {
+  width: 80px;
+}
 
 .logo {
-  width: 100px;
-  padding-top: 10px;
+  width: 100%;
+  padding: 10px;
 }
 
 #header .nav-list ul {
