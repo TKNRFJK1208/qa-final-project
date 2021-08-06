@@ -47,7 +47,7 @@
     <div class="project-box">
       <div class="project-item">
         <a href="" title="project image">
-          <img src="images/img1.jpg" alt="">
+          <img src="images/img1.jpg" alt="project1">
         </a>
         <div class="project-info">
           <h4>Projet Title</h4>
@@ -56,7 +56,7 @@
       </div>
       <div class="project-item">
         <a href="" title="project image">
-          <img src="images/img2.jpg" alt="">
+          <img src="images/img2.jpg" alt="project2">
         </a>
         <div class="project-info">
           <h4>Projet Title</h4>
@@ -65,7 +65,7 @@
       </div>
       <div class="project-item">
         <a href="" title="project image">
-          <img src="images/img3.jpg" alt="">
+          <img src="images/img3.jpg" alt="project3">
         </a>
         <div class="project-info">
           <h4>Projet Title</h4>
@@ -74,7 +74,7 @@
       </div>
       <div class="project-item">
         <a href="" title="project image">
-          <img src="images/img4.jpg" alt="">
+          <img src="images/img4.jpg" alt="project4">
         </a>
         <div class="project-info">
           <h4>Projet Title</h4>
@@ -83,7 +83,7 @@
       </div>
       <div class="project-item">
         <a href="" title="project image">
-          <img src="images/img5.jpg" alt="">
+          <img src="images/img5.jpg" alt="project5">
         </a>
         <div class="project-info">
           <h4>Projet Title</h4>
@@ -92,7 +92,7 @@
       </div>
       <div class="project-item">
         <a href="" title="project image">
-          <img src="images/img6.jpg" alt="">
+          <img src="images/img6.jpg" alt="project6">
         </a>
         <div class="project-info">
           <h4>Projet Title</h4>
@@ -123,17 +123,17 @@
     <h2 class="section-title">Client</h2>
     <div class="all-client-box">
       <div class="client-box">
-        <img src="images/c1.jpeg" alt="">
+        <img src="images/c1.jpeg" alt="client1">
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
         <div class="client-message"></div>
       </div>
       <div class="client-box">
-        <img src="images/c2.jpeg" alt="">
+        <img src="images/c2.jpeg" alt="client2">
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
         <div class="client-message"></div>
       </div>
       <div class="client-box">
-        <img src="images/c3.jpeg" alt="">
+        <img src="images/c3.jpeg" alt="client3">
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
         <div class="client-message"></div>
       </div>
@@ -154,11 +154,11 @@
                 ?>
                 <div class="contact-info">
                     <p>NAME</p>
-                    <input type="text" cols="20" name="fullname" value="<?php echo $_SESSION['fullname'] ?>"><br>
+                    <input type="text" name="fullname" value="<?php echo $_SESSION['fullname'] ?>"><br>
                 </div>
                 <div class="contact-info">
                     <p>EMAIL</p> 
-                    <input type="email" cols="40" name="email" value="<?php echo $_SESSION['email'] ?>"><br>
+                    <input type="email" name="email" value="<?php echo $_SESSION['email'] ?>"><br>
                 </div>
                 <div class="contact-info">
                     <p>MESSAGE</p><br>

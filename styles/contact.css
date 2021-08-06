@@ -1,9 +1,12 @@
 /* Contact Section */
+#contact {
+  margin-bottom: 200px;
+}
 #contact .contact-form {
   display: flex;
   flex-direction: column;
   margin: 0 auto;
-  padding: 80px 20px;
+  padding: 120px 10px;
   width: 80vw;
 }
 
