@@ -4,7 +4,10 @@
   <div class="header container">
     <div class="nav-bar">
       <div class="brand">
-        <a href="index.php"><img class="logo" src="images/logo.png" alt="LOGO"></a>
+        <a class="logo-box" href="index.php">
+          <img class="logo" src="images/logo.png" alt="LOGO">
+          <span>The Concept Lab</span>
+        </a>
       </div>
       <div class="nav-list">
         <div class="hamburger"><div class="bar"></div></div>
@@ -24,7 +27,7 @@
 <section id="bnr">
   <div class="bnr container">
     <div class="bnr-content">
-      <h1>The readable content of a page when looking at its layout.</h1>
+      <h1>The Concept Lab.</h1>
     </div>
   </div>
 </section>
@@ -32,7 +35,7 @@
   <div class="about container">
     <div class="col-left">
       <div class="about-img">
-        <img src="images/about.jpeg" class="pf-img" alt="profile image">
+        <img src="images/about.jpg" class="pf-img" alt="profile image">
       </div>
     </div>
     <div class="col-right">
@@ -123,17 +126,17 @@
     <h2 class="section-title">Client</h2>
     <div class="all-client-box">
       <div class="client-box">
-        <img src="images/c1.jpeg" alt="client1">
+        <img src="images/c1.jpg" alt="client1">
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
         <div class="client-message"></div>
       </div>
       <div class="client-box">
-        <img src="images/c2.jpeg" alt="client2">
+        <img src="images/c2.jpg" alt="client2">
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
         <div class="client-message"></div>
       </div>
       <div class="client-box">
-        <img src="images/c3.jpeg" alt="client3">
+        <img src="images/c3.jpg" alt="client3">
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
         <div class="client-message"></div>
       </div>

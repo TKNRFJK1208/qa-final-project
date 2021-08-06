@@ -26,9 +26,18 @@ header .nav-bar {
   width: 80px;
 }
 
-.logo {
+.logo-box{
+  display: flex;
+  align-items: center;
+}
+
+.logo-box .logo {
   width: 100%;
   padding: 10px;
+}
+
+.logo-box span{
+  color: #fff;
 }
 
 #header .nav-list ul {
