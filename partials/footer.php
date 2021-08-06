@@ -17,7 +17,7 @@
           </a>
         </div>
       </div>
-      <p class="copyright">© 2021 BCIT NEW MEDIA STUDENT</p>
+      <p class="copyright">© 2021 The Concept Lab</p>
     </div>
   </section>
 
